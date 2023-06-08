@@ -4,7 +4,7 @@
  
 > CLI that generates beautiful README.md files.
 
-## 🏠Homepage
+## 🏠 [Homepage](https://link-url-here.org)
 ## Prerequisites
 * npm >=5.5.0
 * node >=9.3.0
@@ -19,10 +19,14 @@
 * Twitter: [@FranckAbgrall](https://link-url-here.org)
 * Github:  [@kefranabg](https://link-url-here.org)
 ## 🤝Contributing
-Contributions , issues and features requests are welcome! 
+Contributions , issues and features requests are welcome!
+
 Feel free to check [issues page.](https://link-url-here.org)
 ## Show your support
 Give a⭐ if this project helped you!
+
+<span style="background-color:powderblue;"> BECOME A PATRON </span> 
+
 ## License
 Copyright 2019 [Franck Abgrall.](https://link-url-here.org)
 
