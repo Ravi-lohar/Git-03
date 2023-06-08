@@ -2,5 +2,5 @@
 # Details are as below 
 **new thongs
 <div  align="center">
-  Centre 
+  ## Centre 
 </div>
