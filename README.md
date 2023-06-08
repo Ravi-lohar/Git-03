@@ -13,7 +13,7 @@
 ## Usage
     npm run start
 ## Run tests
-    npm run  [@FranckAbgrall](https://link-url-here.org)
+    npm run test
 ## Author 
 **Franck Abgralla**
 * Twitter: [@FranckAbgrall](https://link-url-here.org)
@@ -25,7 +25,10 @@ Feel free to check [issues page.](https://link-url-here.org)
 Give a⭐ if this project helped you!
 ## License
 Copyright 2019 [Franck Abgrall.](https://link-url-here.org)
+
 This Project is [MIT](https://link-url-here.org) licensed.
-    *This README was generated with*❤️ *by [readme-md-generator](https://link-url-here.org)
+  
+  ---
+*This README was generated with*❤️ *by [readme-md-generator](https://link-url-here.org)
 
 
