@@ -1,2 +1,2 @@
-# Git-03
-Assignment of Readme.md file
+## Project 1
+# Details are as below 
